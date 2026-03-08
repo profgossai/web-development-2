@@ -1,9 +1,9 @@
 {
+  "homepage": "https://profgossai.github.io/web-development-2",
   "name": "web2project",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://profgossai.github.io/web-development-2",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
